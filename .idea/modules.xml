@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TP-StrategyPattern/TP-StrategyPattern.iml" filepath="$PROJECT_DIR$/TP-StrategyPattern/TP-StrategyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TPs-JAVA-AVANCE.iml" filepath="$PROJECT_DIR$/TPs-JAVA-AVANCE.iml" />
+    </modules>
+  </component>
+</project>
