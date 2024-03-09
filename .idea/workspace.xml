@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="704bde2b-c18a-4bb8-a9cb-5a188abd0117" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/AdapterPattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/AdapterVgaHdmi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/Ecran.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/HDMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/UniteCentrale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/VGA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdapterPattern/src/VP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP-ObserverPattern/src/DisplayAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP-ObserverPattern/src/DisplayAll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP-ObserverPattern/src/DisplayResume.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP-ObserverPattern/src/DisplayResume.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP-ObserverPattern/src/GPS.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP-ObserverPattern/src/GPS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP-ObserverPattern/src/Observable.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP-ObserverPattern/src/Observable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TP-ObserverPattern/src/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/TP-ObserverPattern/src/Observer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +74,7 @@
       <recent name="$PROJECT_DIR$/TP-StrategyPattern/Armes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TP3JavaPattern.src.App" />
       <module name="TP-ObserverPattern" />
@@ -84,6 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="AdapterPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="TP-ObserverPattern" />
@@ -93,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.App" />
       </list>
@@ -108,7 +120,9 @@
       <updated>1709367292467</updated>
       <workItem from="1709367293694" duration="5660000" />
       <workItem from="1709928722139" duration="627000" />
-      <workItem from="1709925761099" duration="3148000" />
+      <workItem from="1709925761099" duration="3928000" />
+      <workItem from="1709942299658" duration="6376000" />
+      <workItem from="1709971876780" duration="1071000" />
     </task>
     <task id="LOCAL-00001" summary="Strategy Pattern">
       <option name="closed" value="true" />
@@ -134,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709926618185</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="TP DONE">
+      <option name="closed" value="true" />
+      <created>1709929001964</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709929001964</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +166,7 @@
     <MESSAGE value="Strategy Pattern" />
     <MESSAGE value="Starting Observer Pattern" />
     <MESSAGE value="init observer TP" />
-    <option name="LAST_COMMIT_MESSAGE" value="init observer TP" />
+    <MESSAGE value="TP DONE" />
+    <option name="LAST_COMMIT_MESSAGE" value="TP DONE" />
   </component>
 </project>
